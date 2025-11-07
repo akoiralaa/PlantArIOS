@@ -26,4 +26,14 @@ MonoBehaviour:
     m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
     m_Name: sunflower_marker
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 6df44c8711d034902ac90fb23248e8ba, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4869659222639585406
+      m_GuidHigh: 2932857404892964012
+    m_SerializedTextureGuid:
+      m_GuidLow: 8411488159836725228
+      m_GuidHigh: 176844096020825801
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: daisy
+    m_Texture: {fileID: 2800000, guid: 5778dfec9bea74bbc946f2b3c4467402, type: 3}
